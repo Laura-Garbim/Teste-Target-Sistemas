@@ -6,7 +6,7 @@ function inverterString(str) {
     return resultado;
 }
 
-const entrada = prompt('Digite a string que deseja inverter:');
+const entrada = prompt('Digite a palavra que deseja inverter:');
 const invertida = inverterString(entrada);
 
 console.log(`String original: ${entrada}`);

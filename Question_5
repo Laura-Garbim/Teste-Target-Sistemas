@@ -9,5 +9,5 @@ function inverterString(str) {
 const entrada = prompt('Digite a palavra que deseja inverter:');
 const invertida = inverterString(entrada);
 
-console.log(`String original: ${entrada}`);
-console.log(`String invertida: ${invertida}`);
+console.log(`Palavra original: ${entrada}`);
+console.log(`Palavra invertida: ${invertida}`);

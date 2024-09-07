@@ -6,4 +6,4 @@ Estão presentes neste repositório as soluções do teste solicitado no process
 # Soluções
 
 - **Questão 1**
-- [Solução:]
+- [Solução:](https://github.com/Laura-Garbim/Teste-Target-Sistemas/blob/main/Question_1.js)

@@ -12,6 +12,10 @@ ___
 - [Solução](https://github.com/Laura-Garbim/Teste-Target-Sistemas/blob/main/Question_2.js)
 ___
 
+- **Questão 3**
+- [Solução](https://github.com/Laura-Garbim/Teste-Target-Sistemas/blob/main/Question-3.js)
+___
+
 - **Questão 4**
 - [Solução](https://github.com/Laura-Garbim/Teste-Target-Sistemas/blob/main/Question_4.js)
 ___
